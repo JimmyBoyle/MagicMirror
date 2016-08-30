@@ -33,6 +33,7 @@ var config = {
 			module: 'calendar',
 			header: 'KenDen',
 			position: 'top_left',
+			classes : 'for_all',
 			config: {
 				calendars: [
 					{
@@ -85,7 +86,7 @@ var config = {
 				showPublishDate: true,
 				showDescription: true
 			}
-		},
+		}
 	]
 
 };
