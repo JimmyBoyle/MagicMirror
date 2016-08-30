@@ -47,11 +47,6 @@ var config = {
 				]
 			}
 		},
-/*		{
-			module: 'compliments',
-			position: 'lower_third'
-		},
-*/
 		{
 			module: 'currentweather',
 			position: 'top_right',
