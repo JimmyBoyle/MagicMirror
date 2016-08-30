@@ -1,6 +1,5 @@
-/* Magic Mirror Config Sample
+/* Magic Mirror Config
  *
- * By Michael Teeuw http://michaelteeuw.nl
  * MIT Licensed.
  */
 
@@ -56,7 +55,7 @@ var config = {
 			module: 'currentweather',
 			position: 'top_right',
 			config: {
-				location: 'Sammamish,US',
+				location: 'Spokane,US',
 				//locationID: '5809402',  //ID from bulk.openweather.org/sample/
 				appid: '0797da8505f5b1f455950764d36345ae'
 			}
@@ -67,7 +66,7 @@ var config = {
 			header: 'Weather Forecast',
 			classes: 'Jimmy',
 			config: {
-	        		location: 'Sammamish,US',
+	        		location: 'Spokane,US',
 				//locationID: '5809402',  //ID from bulk.openweather.org/sample/
 			        appid: '0797da8505f5b1f455950764d36345ae'
 			}
